@@ -1,6 +1,6 @@
 <div align="center">
 
-# Heyy, I'm Yashfeen aka Yasha!
+# Heyy, I'm Yashfeen!
 
 ### Full-Stack AI Engineer
 
