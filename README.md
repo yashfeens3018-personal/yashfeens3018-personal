@@ -1,9 +1,6 @@
 <div align="center">
-
-# Heyy, I'm Yashfeen ٩(◕‿◕｡)۶!
-
-### Full-Stack AI Engineer
-
+# Heyy, I'm Yashfeen (◕‿◕｡) aka Yasha!
+### Full-Stack AI Engineer · I build things that think (and sometimes break).
 </div>
 
 ---
