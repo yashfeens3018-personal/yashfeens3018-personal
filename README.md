@@ -1,18 +1,13 @@
 <div align="center">
 
-# Heyy, I'm Yashfeen aka Yasha
+# Heyy, I'm Yashfeen aka Yasha!
 
 ### Full-Stack AI Engineer
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashfeens3018-personal&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
 
 </div>
 
 ---
-
-- ### 🎲 Fun Facts
+### 🎲 Fun Facts
 - 🧩 I love solving puzzles, and I suspect that's why I *sometimes* enjoy solving leetcode and codeforces problems.
 - 🎨 I recently picked up painting, and so far it's the best way I've found to switch my brain off.
 - 📚 I also enjoy reading, and right now I'm discovering Russian literature. 
