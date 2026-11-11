@@ -57,21 +57,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats & Achievements
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashfeens3018-personal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfeens3018-personal&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="github-metrics.svg" alt="GitHub metrics" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=yashfeens3018-personal&theme=tokyonight" alt="GitHub streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashfeens3018-personal&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </div>
