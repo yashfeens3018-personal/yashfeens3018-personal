@@ -56,7 +56,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 Stats & Achievements
 
 <div align="center">
@@ -66,3 +66,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=yashfeens3018-personal&theme=tokyonight" alt="GitHub streak" />
 </div>
+-->
+
